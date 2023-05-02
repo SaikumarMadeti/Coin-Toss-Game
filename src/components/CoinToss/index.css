@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  background-size: cover;
+
+  padding: 200px;
+  text-align: center;
+}
+
+.card-container {
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.heaing {
+  color: #a35200;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.description {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.btn-styles {
+  background-color: #f9d423;
+  border-radius: 2px;
+  border: none;
+  text-align: center;
+  height: 30px;
+  width: 100px;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  color: #e2a139;
+}
+
+.bottom-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+.result {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.img-styles {
+  height: 300px;
+  width: 300px;
+}
